@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ejemplo Login Facebook</string>
+    <string name="action_settings">Settings</string>
+    <!-- Cambiar este ID por el de tu aplicación en Facebook. Más info: https://developers.facebook.com/docs/apps/register#create-app -->
+    <string name="facebook_app_id">525799510935126</string>
+</resources>
